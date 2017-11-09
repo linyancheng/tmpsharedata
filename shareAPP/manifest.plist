@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/s/yw5tb4e1nqk92u2/CYCALLTAXIAPPRelease.ipa?dl=0</string>
+					<string>https://github.com/linyancheng/tmpsharedata/blob/master/shareAPP/CYCALLTAXIAPPRelease.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.chihyin.taxi.tw</string>
+				<string>chihyin.-com-chihyin-ios-taxi</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
